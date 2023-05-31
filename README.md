@@ -3,7 +3,7 @@
 ## User Story
 
 * as a text analyser
-* I want to reorder and reformat a paragrap of text as follows:
+* I want to reorder and reformat a paragraph of text as follows:
     *	words should be reordered Alphabetically -  (Zerbra Abba) becomes (Abba Zebra)
     *	words should **THEN** be ordered from upper case to lower case. Note point 1 takes preference. (aBba Abba) becomes (Abba aBba)
     * remove all (.,;') chars. (aBba, Abba) becomes (Abba aBba)
